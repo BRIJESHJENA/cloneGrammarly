@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Grammarly Clone",
+  "version": "1.0",
+  "description": "A simple grammar correction tool",
+  "permissions": ["clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": { "48": "icon.png", "16": "icon.png", "128": "icon.png" }
+  }
+}
